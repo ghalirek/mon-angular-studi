@@ -41,8 +41,8 @@
     "typescript": "~5.7.2"
   }
   "scripts": {
-    "start": "ng serve",
-    "build": "ng build ",
-    "test": "ng test",
+    "start_app": "ng serve",
+    "build_app": "ng build ",
+    "test_app": "ng test",
   }
 }
